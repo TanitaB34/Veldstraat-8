@@ -9,8 +9,8 @@
     .wrap { width: 100%; margin: 0; }
     iframe {
       width: 100%;
-      height: 75vh;         /* vult 75% van het scherm */
-      min-height: 520px;    /* genoeg ruimte voor de chat */
+      height: 75vh;        
+      min-height: 520px;    
       border: 0;
       overflow: hidden;
       border-radius: 12px;
